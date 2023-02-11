@@ -1,41 +1,37 @@
-
 /* --------------Header------------ */
 
-header{
-   background-color: #2c3e50;
-   height: 5.625rem;
+header {
+    background-color: #2c3e50;
+    height: 5.625rem;
 }
 
 /* --------------Header------------ */
 
-/* --------------Main------------ */
+/* --------------Main-------------- */
 
-.section_01{
+.section_01,
+.section_03 {
     background-color: #1abc9c;
-    height: 100%;
 }
 
-.img-sect-01{
+.img-sect-01 {
     width: 50%;
 }
 
+.img-sect-02 {
+    width: 90%;
+}
 
+/* --------------Main-------------- */
 
+/* --------------Footer------------ */
 
+.section_05 {
+    background-color: #3a546d;
+}
 
-/* --------------Main------------ */
+.section_06 {
+    background-color: #2c3e50;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* --------------Footer------------ */
